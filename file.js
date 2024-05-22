@@ -4,3 +4,4 @@ console.log(a+b)
 
 console.log(second commit) 
 console.log(third commit)
+console.log("forth commit")
