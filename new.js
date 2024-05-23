@@ -5,3 +5,6 @@ function two(){
     console.log(second line)
 }
 
+function three(){
+    console.log(third line)
+}
